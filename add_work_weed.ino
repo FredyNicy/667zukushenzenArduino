@@ -1,3 +1,5 @@
+// я первый сделал коментарий))
+
 #include <DHT.h>
 #include <SPI.h>
 #include <SD.h>
