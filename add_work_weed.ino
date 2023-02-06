@@ -1,4 +1,5 @@
 // я первый сделал коментарий))
+// troubla 100%
 
 #include <DHT.h>
 #include <SPI.h>
